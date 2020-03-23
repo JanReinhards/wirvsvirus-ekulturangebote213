@@ -1,7 +1,7 @@
 # #WirVsVirusHack E-Kulturangebote_213
-Thema: Wie können wir nach längerer Zeit von Verzicht auf Live-Formate trotz andauernder Isolation annähernd live Kulturveranstaltungen und andere Begegnungsformate ermöglichen (1_025_e-kulturangebote_213).
+#### Thema: Wie können wir nach längerer Zeit von Verzicht auf Live-Formate trotz andauernder Isolation annähernd live Kulturveranstaltungen und andere Begegnungsformate ermöglichen (1_025_e-kulturangebote_213).
 
-Unser User Interface Konzept ist unter UI Design zu finden.
+Unser User Interface Konzept ist unter UI Design zu finden. Im Hauptordner sind noch die Dateien "Coronzert_Frontend_Design_Präsentation_Update.pptx" und "Coronzert_Frontend_Design_Präsentation.pptx" zu finden, welche die gleiche Datei darstellen, wie die im UI Design Ordner bzw. in der Datei "Coronzert_Frontend_Design_Präsentation.pptx" sind vereinzelt Folien nicht sichtbar. Wir haben diese Dateien im Repo gelassen, um zu verdeutlichen, dass die Fristen gewahrt wurden und lediglich Sichtbarkeiten von Folien und Ordnerstrukturen angepasst wurden.
 Zudem haben wir eine Übersicht über Skalierung und Kosten erstellt.
 
 ## Inspiration
