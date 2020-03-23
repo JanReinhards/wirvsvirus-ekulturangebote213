@@ -1,7 +1,8 @@
 # #WirVsVirusHack E-Kulturangebote_213
-Thema: (1_025_e-kulturangebote_213) Wie können wir nach längerer Zeit von Verzicht auf Live-Formate trotz andauernder Isolation annähernd live Kulturveranstaltungen und andere Begegnungsformate ermöglichen.
+Thema: Wie können wir nach längerer Zeit von Verzicht auf Live-Formate trotz andauernder Isolation annähernd live Kulturveranstaltungen und andere Begegnungsformate ermöglichen (1_025_e-kulturangebote_213).
 
 Unser User Interface Konzept ist unter UI Design zu finden.
+Zudem haben wir eine Übersicht über Skalierung und Kosten erstellt.
 
 ## Inspiration
 Unsere Motivation ist es, Künstlern zu helfen die Zeit während des Auftrittsverbotes, in der überlebenswichtige Einnahmen restlos wegfallen, durchzustehen. Gleichzeitig bieten wir Konsumenten und Fans die Möglichkeit Live Acts von ihrer Lieblingsband, ihrem Lieblingscomedian oder ihrem Lieblings-Poetry-Slamer von Wohnzimmer zu Wohnzimmer aus mitzuerleben!
